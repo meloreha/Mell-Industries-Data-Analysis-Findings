@@ -2,6 +2,7 @@
 I performed data analysis using Microsoft Excel 2016 by using assorted functions, calculations, and pivot tables.
 
 [Mell Industries Census Sheet.csv](https://github.com/user-attachments/files/23687924/Mell.Industries.Census.Sheet.csv)
+
 EMPLOYEE_ID,GENDER,DATE_OF_BIRTH,DATE_OF_HIRE,TERMINATION_DATE,Job Duration,OCCUPATION, SALARY ,Knowledge of Work,Communication,Teamwork,Leadership,Quality of Work,Evaluation Score,Evaluation Result
 001,Female,5/1/1943,10/11/1975,11/26/1990,"15 Years, 1 Months, 15 Days",Stocking Associate," $24,960.00 ",3,3,2,1,1,2,Meets Expectations
 002,Male,4/21/1945,7/11/1990,,"35 Years, 4 Months, 11 Days",Stocking Associate," $20,800.00 ",1,3,1,1,3,2,Meets Expectations
