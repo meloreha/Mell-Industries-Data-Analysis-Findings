@@ -12,6 +12,7 @@ I performed data analysis using Microsoft Excel 2016 by using assorted functions
 
 
 I created a pivot table
+
 [Occupation Pivot Table.xlsx](https://github.com/user-attachments/files/23694770/Occupation.Pivot.Table.xlsx)
 
 
